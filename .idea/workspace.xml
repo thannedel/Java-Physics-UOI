@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="033e92d5-f29b-49c3-b258-9ff44b29b26d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trinomial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPhysicsUoi/Fahrenheit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPhysicsUoi/Fahrenheit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPhysicsUoi/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPhysicsUoi/Log.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Application.Log">
+  <component name="RunManager" selected="Application.Trinomial">
     <configuration name="Fahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fahrenheit" />
       <module name="JavaPhysicsUoi" />
@@ -53,22 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Projectile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projectile" />
+    <configuration name="Neperios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Neperios" />
       <module name="JavaPhysicsUoi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tan" />
+    <configuration name="Riza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Riza" />
       <module name="JavaPhysicsUoi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sinCos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sinCos" />
+    <configuration name="Trinomial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trinomial" />
       <module name="JavaPhysicsUoi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trinomial" />
+        <item itemvalue="Application.Neperios" />
+        <item itemvalue="Application.Riza" />
         <item itemvalue="Application.Log" />
         <item itemvalue="Application.Fahrenheit" />
-        <item itemvalue="Application.Tan" />
-        <item itemvalue="Application.Projectile" />
-        <item itemvalue="Application.sinCos" />
       </list>
     </recent_temporary>
   </component>
@@ -118,22 +118,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584268722401" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584439460062">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584783758206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584439460062" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584439460062">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584783758206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584783758206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584439460062" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584439460062">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584783758206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584783758206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584439460062" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584439460062">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584783758206" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584783758206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584439460062" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584783758206" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584187312929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
